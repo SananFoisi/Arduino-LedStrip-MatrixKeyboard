@@ -3,6 +3,7 @@ https://www.tinkercad.com/things/erhXX3efqQu
 
 <br> //Para a troca de efeitos é necessario o presionamento do Push Button
 <br> //Modelo de fita de led utilizado: WS2812b
+
 <br> //To switch effects, pressing the Push Button is required
 <br> //Led strip model used: WS2812b
 
