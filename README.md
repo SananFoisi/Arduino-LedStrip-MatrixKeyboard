@@ -1,7 +1,4 @@
 # Arduino + MatrixKeyboard + FitaLed
-
-<br> FitaLed-ArduinoMatrixKeyboard
-
 <br> //Para a troca de efeitos é necessario o presionamento do Push Button
 <br> //To switch effects, pressing the Push Button is required
 
