@@ -7,7 +7,7 @@
 #endif
 
 #define DATA_PIN 2  // Pino de E/S digital conectado aos NeoPixels.
-#define NUM_LEDS 75 // Número de LEDs na fita
+#define NUM_LEDS 70 // Número de LEDs na fita
 #define botReset 4  //Porta de entrada do botao Reset
 
 const byte ROWS = 4; // Quatro linhas por...
