@@ -33,4 +33,4 @@ https://www.tinkercad.com/things/erhXX3efqQu
 <br> (D) -   colorWipe(0xff, 0xff, 0xff, 50) //white 
 
 
-![Sketch](https://user-images.githubusercontent.com/67809229/111317198-ae969600-8642-11eb-9ebc-47ac5bdb30c8.png)
+
