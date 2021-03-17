@@ -1,4 +1,6 @@
 # Arduino + MatrixKeyboard + FitaLed
+![Arduino-FitaLed-MatrixKeyboard](https://user-images.githubusercontent.com/67809229/111480774-19160780-8711-11eb-8bfc-d2b3cab10734.png)
+
 https://www.tinkercad.com/things/erhXX3efqQu
 
 <br> //Para a troca de efeitos é necessario o presionamento do Push Button
